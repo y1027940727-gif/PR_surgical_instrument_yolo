@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/y1027940727-gif/PR_surgical_instrument_yolo/blob/main/ai_hawk.ipynb
+)
+
+
 # Surgical Instrument Detection with YOLOv8  
 手術器械盤物件偵測與清點專題
 
@@ -34,3 +39,4 @@ PR_surgical_instrument_yolo/
 ├─ config/
 │  └─ data_instruments.yaml               # YOLO 資料設定檔
 └─ README.md
+
